@@ -65,10 +65,11 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        CS senior student with a foundation in systems, algorithms, and game development. I care
-        about understanding how things work — then engineering a solution that actually does. Lately
-        I’ve been using AI as a force multiplier to take on projects I wouldn’t have attempted
-        alone.
+        CS senior student with a foundation in systems, algorithms, and game development.
+        <br />
+        I care about understanding how things work — then engineering a solution that actually does.
+        Lately I’ve been using AI as a force multiplier to take on projects
+        <br />I wouldn’t have attempted alone.
       </p>
     </>
   );

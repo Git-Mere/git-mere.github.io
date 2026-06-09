@@ -146,16 +146,14 @@ const About = () => {
 
             <p>
               My background spans game technology, computer networks, algorithms, and system design.
-              I enjoy building things from the ground up, whether that means a chess engine, a
-              graphics renderer, or a custom networking layer. There&#39;s something satisfying
-              about knowing exactly why your software works &mdash; and exactly why it doesn&#39;t.
+              I enjoy building things from the ground up! There&#39;s something satisfying about
+              knowing exactly why your software works &mdash; and exactly why it doesn&#39;t.
             </p>
 
             <p>
-              Lately I&#39;ve been channeling that same instinct into AI-powered tools I actually
-              want to use. Projects like settle-up, where is the question, and post connector
-              started as personal itch-scratches and turned into some of my most rewarding
-              engineering work.
+              Lately, I&#39;ve been building AI-powered tools I actually want to use. Projects like
+              settle-up, where is the question, and post connector started as personal
+              itch-scratches and became some of my most rewarding engineering work.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

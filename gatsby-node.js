@@ -11,6 +11,20 @@ exports.createSchemaCustomization = ({ actions }) => {
   const { createTypes } = actions;
   createTypes(`
     type MarkdownRemarkFrontmatter {
+      title: String
+      description: String
+      date: Date @dateformat
+      slug: String
+      draft: Boolean
+      external: String
+      tags: [String]
+      tech: [String]
+      company: String
+      location: String
+      range: String
+      url: String
+      github: String
+      cover: File @fileByRelativePath
       cta: String
       ios: String
       android: String

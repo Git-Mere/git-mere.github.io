@@ -1,5 +1,5 @@
 ---
-date: 2026-06-10
+date: 2024-06-05
 title: Mori's Library
 cover: ./cover.png
 github: https://github.com/Git-Mere/Mori-s-library

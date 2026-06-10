@@ -1,5 +1,5 @@
 ---
-date: 2026-06-10
+date: 2020-10-10
 title: Amidar Master Copy
 github: https://github.com/Git-Mere/Amidar-Master-Copy
 tech:

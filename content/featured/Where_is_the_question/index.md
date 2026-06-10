@@ -1,5 +1,5 @@
 ---
-date: 2026-06-10
+date: 2026-06-06
 title: Where is the Question?
 cover: ./cover.png
 github: https://github.com/Git-Mere/Where_is_the_question

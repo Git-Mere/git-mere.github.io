@@ -1,5 +1,5 @@
 ---
-date: 2026-06-10
+date: 2026-04-19
 title: Settle Up
 cover: ./cover.png
 github: https://github.com/Git-Mere/Settle_Up

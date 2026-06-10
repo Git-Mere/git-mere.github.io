@@ -1,5 +1,5 @@
 ---
-date: 2026-06-10
+date: 2020-12-10
 title: Ladder Chess
 github: https://github.com/Git-Mere/Ladder-chess
 tech:

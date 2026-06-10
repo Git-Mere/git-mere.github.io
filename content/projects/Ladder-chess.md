@@ -1,5 +1,5 @@
 ---
-date: 2026-06-09
+date: 2026-06-10
 title: Ladder Chess
 github: https://github.com/Git-Mere/Ladder-chess
 tech:
@@ -9,4 +9,4 @@ company: ''
 showInProjects: true
 ---
 
-A mouse-only board game where two or more players compete to place six ladders and block rivals, built as a first-year team project with two classmates. I designed the game rules and implemented the tile system, map system, and tooling.
+A two-player board game where each player races to place six ladders while blocking their opponent, controlled entirely by mouse. Built in C++ with SFML as a first-year team project, covering the tile system, map system, and game tools from scratch.

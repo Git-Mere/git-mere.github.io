@@ -1,6 +1,6 @@
 ---
 date: '2026-05-01'
-title: 'Software Engineer'
+title: 'Software Engineer Intern'
 company: 'Tactical Affair'
 location: 'Remote'
 range: 'May 2026 - Present'

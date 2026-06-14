@@ -1,5 +1,6 @@
 ---
 date: 2024-06-05
+featuredOrder: 3
 title: Mori's Library
 cover: ./cover.png
 github: https://github.com/Git-Mere/Mori-s-library

@@ -14,6 +14,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       title: String
       description: String
       date: Date @dateformat
+      featuredOrder: Int
       slug: String
       draft: Boolean
       external: String

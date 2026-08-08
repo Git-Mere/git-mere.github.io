@@ -1,6 +1,6 @@
 ---
 date: 2020-11-15
-title: Bet-Game
+title: Bet Game
 github: https://github.com/Git-Mere/Bet-Game
 tech:
   - C++

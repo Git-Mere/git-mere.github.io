@@ -1,5 +1,5 @@
 ---
-date: 2026-08-08
+date: 2026-05-25
 title: Post-Connector
 github: https://github.com/Git-Mere/Post-Connector
 tech:

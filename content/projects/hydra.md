@@ -1,5 +1,5 @@
 ---
-date: 2026-08-08
+date: 2026-07-06
 title: hydra
 github: https://github.com/Git-Mere/hydra
 tech:

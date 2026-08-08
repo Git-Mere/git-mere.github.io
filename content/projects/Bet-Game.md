@@ -1,5 +1,5 @@
 ---
-date: 2026-08-08
+date: 2020-11-15
 title: Bet-Game
 github: https://github.com/Git-Mere/Bet-Game
 tech:

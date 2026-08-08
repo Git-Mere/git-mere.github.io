@@ -1,6 +1,6 @@
 ---
 date: 2026-05-25
-title: Post-Connector
+title: Post Connector
 github: https://github.com/Git-Mere/Post-Connector
 tech:
   - TypeScript

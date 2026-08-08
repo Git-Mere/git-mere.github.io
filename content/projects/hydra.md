@@ -1,6 +1,6 @@
 ---
 date: 2026-07-06
-title: hydra
+title: Hydra
 github: https://github.com/Git-Mere/hydra
 tech:
   - Python

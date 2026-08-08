@@ -1,5 +1,5 @@
 ---
-date: 2026-08-08
+date: 2026-06-26
 title: What I Need
 github: https://github.com/Git-Mere/What-I-Need
 tech:

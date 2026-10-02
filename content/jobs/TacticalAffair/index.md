@@ -11,4 +11,3 @@ url: 'https://tacticalaffairs.com/'
 - Implemented validation rules and rate-limiting safety guards to reliably detect and prevent invalid states.
 - Developed pytest unit tests for fixture modeling and protocol edge cases, applying root-cause analysis to mitigate latency.
 - Designed layered tools and workflows separating ENTTEC USB framing from the DMX512 protocol, structuring the system for Unreal Engine integration.
-- Leveraged Claude Code with RTK and Claude Team for AI-assisted development, accelerating implementation, debugging, and design review throughout the project.
